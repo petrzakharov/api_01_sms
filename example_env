@@ -1,0 +1,7 @@
+#add tokens to .env file
+# VK tokens
+VK_TOKEN =''
+
+# twilio tokens
+TW_TOKEN = ''
+TW_SID = ''
